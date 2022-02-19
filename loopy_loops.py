@@ -1,5 +1,3 @@
-from sympy import Set
-
 
 if __name__ == '__main__':
 
